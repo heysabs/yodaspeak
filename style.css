@@ -42,3 +42,7 @@ p {
   font-size: 1em;
   font-family: sans-serif;
 }
+
+img {
+  border-radius: 500px;
+}
